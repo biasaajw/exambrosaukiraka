@@ -1,6 +1,6 @@
-# UjiAman — Browser Ujian Aman
+# UjiAman
 
-Aplikasi ujian online berbasis web dengan pengamanan ketat untuk mencegah kecurangan: layar penuh yang dikunci, deteksi pindah tab, alarm suara, kamera aktif, watermark username, token ujian berkala, dan soal acak per siswa. Tersedia halaman untuk siswa, pengawas, dan admin dengan satu form login — peran dikenali otomatis dari akun.
+Aplikasi ujian online berbasis web dengan tingkat keamanan ketat untuk mencegah kecurangan: 1. layar penuh yang dikunci. 2. deteksi pindah tab. 3. alarm suara, kamera aktif. 4. watermark username. 5. token ujian berkala. 6. soal acak per siswa. Tersedia halaman untuk siswa, pengawas, dan admin dengan satu form login — peran dikenali otomatis dari akun.
 
 ## Fitur
 - **Login tunggal** dengan pratinjau sandi; peran (siswa/pengawas/admin) dikenali otomatis.
